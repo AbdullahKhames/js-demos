@@ -1,0 +1,13 @@
+{
+  "name": "el-zero_assignments",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "to setup a js backend application you need to have node js installed then npm run <name of script>\r then define the package.json to allow us to have dependencies",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
